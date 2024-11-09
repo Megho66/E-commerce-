@@ -1,0 +1,28 @@
+{
+  "name": "Ronan Adam",
+  "email": "johndosdssdsdaae@example.com",
+  "password": "sdassdsdsddsdd",
+  "day": "1",
+  "month": "12",
+  "year": "1996",
+  "firstName": "John",
+  "lastName": "Doe",
+  "company": "Example Co.",
+  "address": "123 Main St",
+  "country": "United States",
+  "state": "California",
+  "city": "Los Angeles",
+  "zipcode": "90001",
+  "mobileNumber": "1234567890",
+  "productURL":"https://automationexercise.com/products",
+  "productDetailPage":"https://automationexercise.com/product_details/1",
+  "searchProduct": "dress",
+  "nameOnCard": "ahmed",
+  "cardNumber": "1234-5678-1234-5678",
+  "CVC": "000",
+  "expiryMonth": "12",
+  "expiryYear": "2024",
+  "paymentDoneURL":"https://automationexercise.com/payment_done/400",
+  "confirmationMessage": "Your order has been confirmed!"
+
+}

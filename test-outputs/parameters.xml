@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="parametrized suite">
+    <listeners>
+
+    </listeners>
+    <parameter name="username" value="ahmed"></parameter>
+    <parameter name="password" value="Aa@12345"></parameter>
+    <test name="parametrized test">
+        <classes>
+            <class name="Tests.TC02_Login"></class>
+        </classes>
+
+    </test>
+        </suite>

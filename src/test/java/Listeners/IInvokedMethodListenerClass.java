@@ -17,7 +17,9 @@ public class IInvokedMethodListenerClass implements IInvokedMethodListener {
         if (testResult.getStatus()==ITestResult.FAILURE) {
             logsUtils.info("Test Case " + testResult.getName() + " fails");
             Utility.takeScreenshot(getDriver(), testResult.getName());
+
         }
 
         }
+
 }

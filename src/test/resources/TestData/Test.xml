@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllTestsSuite">
+    <test name="AllTests" parallel="methods" thread-count="1">
+        <classes>
+            <!-- Specify all your test classes here -->
+
+            <class name="Tests.TC02_Login"/>
+
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>

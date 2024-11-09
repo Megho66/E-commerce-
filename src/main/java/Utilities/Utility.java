@@ -41,6 +41,7 @@ public class Utility {
         driver.findElement(locator).sendKeys(data);
     }
 
+
     // Get text from an element
     public static String getText(WebDriver driver, By locator) {
         new WebDriverWait(driver, Duration.ofSeconds(6))
